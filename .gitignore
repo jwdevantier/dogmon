@@ -1,0 +1,7 @@
+dropbox.ini
+email.ini
+
+venv
+*.pyc
+.mypy_cache
+.vscode
